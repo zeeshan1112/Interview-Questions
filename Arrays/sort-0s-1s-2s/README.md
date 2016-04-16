@@ -22,3 +22,5 @@ Invariant: a[1..Lo-1]=0 and a[Lo..Mid-1]=1 and a[Hi+1..N]=2; a[Mid..Hi] are unkn
 3. Finally, array a[] has been sorted.
 
 > Time Complexity: **O(n)**
+
+>> [Reference Link](http://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/) 

@@ -8,3 +8,5 @@ else ignore it. **O((n-k) * logk)**
 3. Finally, min heap has k largest elements and root of the min heap is the kth largest element.
 
 > Time Complexity: **O(k + (n-k) * logk)** 
+
+> [Reference Link](http://www.crazyforcode.com/kth-largest-smallest-element-array/)
