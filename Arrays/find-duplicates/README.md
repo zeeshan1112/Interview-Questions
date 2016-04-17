@@ -28,3 +28,5 @@ traverse the list for i= 0 to n-1 elements
 > Note: This method modifies the original array and may not be a recommended method if we are not allowed to modify the array.
 This can be also done by keeping track of elements using a temp array count[], and when you see an element whose count is already set, print it as duplicate. This method uses 0(n) extra space.
 
+> [Reference Link](http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/) 
+
